@@ -34,7 +34,7 @@ A curated list of education courses, videos, materials, recommended by FrontBand
 ## React JS 
 - [React CheatSheet](https://reactcheatsheet.com/) - Cheatsheet with React commands
 - [MobX vs Redux](http://frontflip.me/2016/06/15/why-mobx-and-not-redux.html) - Comparission of MobX and Redux
-- [React FAQ](https://reactfaq.site/) - Good list of articles and hsort answers about React
+- [React FAQ](https://reactfaq.site/) - Good list of articles and short answers about React
 
 ### Articles
 
