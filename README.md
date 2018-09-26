@@ -4,7 +4,7 @@ A curated list of education courses, videos, materials, recommended by FrontBand
 
 ## General
 
-- [Javascript Learnbook](learn.javascript.ru)
+- [Javascript Learnbook](https://learn.javascript.ru)
 - [Webmasters by TeamDev](http://webmasters.teamdev.com/#html) - Big textbook about HTML, CSS and webdev in general
 - [Caching Explained](https://cachingexplained.com/ru/) - Funny explanaing about how caching works
 - [Git Cheatsheet](https://medium.com/@ABatickaya/%D1%88%D0%BF%D0%B0%D1%80%D0%B3%D0%B0%D0%BB%D0%BA%D0%B0-%D0%BF%D0%BE-git-55eeea487676) - list of offen used git command
