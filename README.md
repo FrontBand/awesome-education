@@ -1,6 +1,6 @@
 # Awesome Education
 
-A curated list of education courses, videos, materials, recommended by FrontBand team
+A curated list of education courses, videos, materials, recommended by FrontBand🚀 team
 
 ## General
 
