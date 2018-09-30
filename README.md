@@ -80,4 +80,10 @@ A curated list of education courses, videos, materials, recommended by FrontBand
 - https://t.me/reactkyiv
 - https://t.me/nuxtjs_ru
 - https://t.me/webanalyst
-
+- https://t.me/vuejs_ru
+- https://t.me/ts_ru
+- https://t.me/nodejs_ru
+- https://t.me/js_ru
+- https://t.me/git_ru
+- https://t.me/javascript_ninja
+- https://t.me/react_js
