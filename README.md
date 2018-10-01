@@ -11,7 +11,10 @@ A curated list of education courses, videos, materials, recommended by FrontBand
 - [97 things every programmer should know](https://97-things-every-x-should-know.gitbooks.io/97-things-every-programmer-should-know/content/ru/index.html) - a list of 97 topics, that every software engineer has to know.
 
 ### Articles
-- https://habr.com/post/217515/
+- [Know your tools](https://habr.com/post/217515/)
+- [Dependency injection and clean functions in javascript](https://habr.com/company/ruvds/blog/422589/)
+- [WebP or how to optimize your images](https://medium.com/web-standards/webp-worth-it-fc08e230f46e)
+- [Correct way to split your chunks with webpack](https://habr.com/company/ruvds/blog/423483/)
 
 ### Youtube Channels
 
@@ -43,11 +46,28 @@ A curated list of education courses, videos, materials, recommended by FrontBand
 ### Online courses
 
 - [React 16 - The Complete Guide (incl. React Router 4 & Redux)](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/v4/overview)
+- [Complete React Tutorial (& Redux ) By The Net Ninja](https://www.youtube.com/watch?v=OxIDLw0M-m0&list=PL4cUxeGkcC9ij8CfkAY2RAGb-tmkNwQHG)
+- [React, Redux & Firebase App Tutorial By The Net Ninja](https://www.youtube.com/watch?v=Oi4v5uxTY5o&list=PL4cUxeGkcC9iWstfXntcj8f-dFZ4UtlN3)
 
 ## Vue JS
 
 ### Online courses
 - [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://www.udemy.com/vuejs-2-the-complete-guide/)
+- [Vue JS 2 - Tutorial for begginers by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa)
+- [Vuex Tutorial by The Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i371QO_Rtkl26MwtiJ30P2)
+
+
+## NodeJS
+
+### Articles
+
+# Nodejs guide (ru)
+- [Part 1:](https://habr.com/company/ruvds/blog/422893/)
+- [Part 2:](https://habr.com/company/ruvds/blog/423153/)
+- [Part 3:](https://habr.com/company/ruvds/blog/423701/)
+- [Part 4:](https://habr.com/company/ruvds/blog/423703/)
+- [Part 5:](https://habr.com/company/ruvds/blog/423705/)
+- [Part 6:](https://habr.com/company/ruvds/blog/424553/)
 
 ## Telegram Channels
 
@@ -60,4 +80,10 @@ A curated list of education courses, videos, materials, recommended by FrontBand
 - https://t.me/reactkyiv
 - https://t.me/nuxtjs_ru
 - https://t.me/webanalyst
-
+- https://t.me/vuejs_ru
+- https://t.me/ts_ru
+- https://t.me/nodejs_ru
+- https://t.me/js_ru
+- https://t.me/git_ru
+- https://t.me/javascript_ninja
+- https://t.me/react_js
